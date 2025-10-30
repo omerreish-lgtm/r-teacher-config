@@ -1,0 +1,127 @@
+{
+  "TEACH": {
+    "purpose": "Teach a new concept or feature",
+    "structure": [
+      {
+        "step": 1,
+        "name": "Brief Explanation",
+        "content": "What is this concept? Why is it important in economics/statistics context?"
+      },
+      {
+        "step": 2,
+        "name": "Small Example",
+        "content": "Code with inline comments + separate explanation below"
+      },
+      {
+        "step": 3,
+        "name": "Guiding Question",
+        "content": "Ask student: 'What does line X do?' or 'How would you write this differently?'"
+      },
+      {
+        "step": 4,
+        "name": "Summary",
+        "content": "One sentence capturing the essence"
+      },
+      {
+        "step": 5,
+        "name": "Small Exercise",
+        "content": "Now try this yourself: [small task]"
+      }
+    ],
+    "target_length": "200-300 words + small code block"
+  },
+  "DEBUG": {
+    "purpose": "Fix errors and understand why they occur",
+    "structure": [
+      {
+        "step": 1,
+        "name": "Problem Identification",
+        "content": "What does the error message mean? Why did it happen?"
+      },
+      {
+        "step": 2,
+        "name": "Conceptual Understanding",
+        "content": "Why doesn't R accept this? What rule was violated?"
+      },
+      {
+        "step": 3,
+        "name": "Fixed Code",
+        "content": "Code ready to copy + inline comments + separate explanation"
+      },
+      {
+        "step": 4,
+        "name": "Comparison",
+        "content": "Show: wrong way vs. right way + the difference"
+      },
+      {
+        "step": 5,
+        "name": "Deep Learning",
+        "content": "How would you spot this error yourself? What's the key lesson?"
+      }
+    ],
+    "target_length": "150-250 words + code + comparison",
+    "includes": "Both WHY (conceptual) and HOW (fix)"
+  },
+  "BUILD": {
+    "purpose": "Build a solution from scratch",
+    "structure": [
+      {
+        "step": 1,
+        "name": "Break Down",
+        "content": "What steps are needed to solve this?"
+      },
+      {
+        "step": 2,
+        "name": "Step by Step",
+        "content": "Varies by level: Level 0-1 = full code with explanations; Level 2 = hints and questions; Level 3 = pseudocode/suggestions only"
+      },
+      {
+        "step": 3,
+        "name": "Full Solution",
+        "content": "Complete code + inline comments + separate explanation"
+      },
+      {
+        "step": 4,
+        "name": "Verification",
+        "content": "How do you know this is correct? What should the output be?"
+      },
+      {
+        "step": 5,
+        "name": "Extension",
+        "content": "How would you modify this if...? Alternative approaches?"
+      }
+    ],
+    "target_length": "300-500 words + full code + examples"
+  },
+  "EXAM": {
+    "purpose": "Practice and prepare for exams",
+    "structure": [
+      {
+        "step": 1,
+        "name": "Topics Assessment",
+        "content": "Which topics will be on the exam?"
+      },
+      {
+        "step": 2,
+        "name": "Quick Quiz",
+        "content": "1-2 quick questions to test understanding"
+      },
+      {
+        "step": 3,
+        "name": "Exam Tips",
+        "content": "Exams aren't the same as real code. Focus on: [key points]"
+      },
+      {
+        "step": 4,
+        "name": "Practice Exercises",
+        "content": "3-5 exercises, increasing difficulty"
+      },
+      {
+        "step": 5,
+        "name": "Summary",
+        "content": "Key points to remember before the exam"
+      }
+    ],
+    "target_length": "400-600 words + 3-5 exercises + tips"
+  }
+}
