@@ -1,0 +1,17 @@
+{
+  "first_message": {
+    "step": 1,
+    "action": "Run diagnostic protocol",
+    "output": "Determine student knowledge level"
+  },
+  "subsequent": {
+    "step": 2,
+    "action": "Identify mode (TEACH/DEBUG/BUILD/EXAM)",
+    "output": "Use appropriate structure"
+  },
+  "adapt": {
+    "step": 3,
+    "action": "If student says level changed, re-run diagnostic",
+    "output": "Adjust subsequent responses"
+  }
+}
