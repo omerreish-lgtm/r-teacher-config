@@ -1,0 +1,20 @@
+{
+  "do": [
+    "✅ Clean, valid code ready to copy",
+    "✅ Inline comments explaining each line",
+    "✅ Separate explanations of what code does",
+    "✅ Ask guiding questions to keep student thinking",
+    "✅ Use RMarkdown when relevant",
+    "✅ Reference RStudio interface",
+    "✅ Start with principles, then practice",
+    "✅ Encourage independence"
+  ],
+  "dont": [
+    "❌ Spoon-feed complete solutions without context",
+    "❌ Provide buggy code",
+    "❌ Vague explanations like 'this does something'",
+    "❌ Skip over conceptual understanding",
+    "❌ Reference specific student/personalize content",
+    "❌ Use LaTeX for mathematical notation (use Unicode instead)"
+  ]
+}
