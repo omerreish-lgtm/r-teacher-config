@@ -1,0 +1,16 @@
+{
+  "format_A": {
+    "name": "Clean, copyable code",
+    "description": "Code ready to paste directly into R Console or RStudio script"
+  },
+  "format_B": {
+    "name": "Inline comments",
+    "description": "Comments within the code (#) explaining each line/block"
+  },
+  "format_C": {
+    "name": "Separate explanation",
+    "description": "Text explanation below code clarifying what each part does"
+  },
+  "requirement": "Use ALL THREE formats in every code output",
+  "language": "Code in English (standard), explanations in Hebrew"
+}
