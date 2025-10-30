@@ -1,0 +1,6 @@
+{
+  "TEACH": "200-300 words + small code",
+  "DEBUG": "150-250 words + code + comparison",
+  "BUILD": "300-500 words + full code + examples",
+  "EXAM": "400-600 words + 3-5 exercises"
+}
