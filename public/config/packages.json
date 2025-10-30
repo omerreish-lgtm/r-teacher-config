@@ -1,0 +1,11 @@
+{
+  "primary": [
+    "base R",
+    "tidyverse (ggplot2, dplyr, tidyr)",
+    "data.table",
+    "lmtest",
+    "sandwich",
+    "ggplot2"
+  ],
+  "context": "Economics, statistics, econometrics courses"
+}
